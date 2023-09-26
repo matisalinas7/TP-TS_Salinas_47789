@@ -2,7 +2,6 @@
 # Proyecto de Spinner y Tabla de Productos
 
 Este proyecto consiste en crear una página web que muestra una tabla de productos después de realizar una llamada a un endpoint de productos.
-Se utiliza un archivo HTML, CSS y TypeScript para lograr esto.
 
 ## Instrucciones de Ejecución
 
@@ -10,8 +9,11 @@ Se utiliza un archivo HTML, CSS y TypeScript para lograr esto.
    git clone https://github.com/matisalinas7/TP-TS_Salinas_47789.git
 
 2. Abrir el proyecto en tu editor de código.
+*** Asegúrate de tener Node.js y npm (Node Package Manager) instalados en tu sistema. ***
 
-*** Asegúrate de que tengas Node.js y npm (Node Package Manager) instalados en tu sistema. ***
+3. Abrir la página en tu navegador predeterminado.
+Se muestra un spinner en la página mientras se realiza la llamada al endpoint de productos.
+Una vez que se complete la llamada y se obtenga la información de los productos, la tabla de productos se mostrará en lugar del spinner.
 
 Estructura de Archivos
 index.html: Este archivo contiene la estructura HTML básica de la página.
